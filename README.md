@@ -10,4 +10,4 @@ Even tho, i consider myself a backend developer, i also do frontend development,
 
 My skills include: NODEJS/ EXPRESS.JS / MONGODB / MONGOOSE / REDIS / BullJS / DOCKER / HTML / CSS / JS (DOM, Vanilla JS) / REACT / CHAKRA UI, e.t.c
 
-You can check me out at https://twitter.com/backendHarry/ or https://medium.com/@backendharry where i learn in public and share my expereience in tech.
+You can check me out at [twitter](https://twitter.com/backendHarry/) or [medium](https://medium.com/@backendharry) where i learn in public and share my expereience in tech.
