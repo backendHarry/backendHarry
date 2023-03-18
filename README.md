@@ -11,3 +11,14 @@ Even tho, i consider myself a backend developer, i also do frontend development,
 My skills include: NODEJS/ EXPRESS.JS / MONGODB / MONGOOSE / REDIS / BullJS / DOCKER / HTML / CSS / JS (DOM, Vanilla JS) / REACT / CHAKRA UI, e.t.c
 
 You can check me out at [twitter](https://twitter.com/backendHarry/) or [medium](https://medium.com/@backendharry) where i learn in public and share my expereience in tech.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/backendHarry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](backendHarry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/backendHarry/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/backendHarry)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backendHarry)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=backendHarry&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=backendHarry)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=backendHarry)  
